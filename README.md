@@ -1,0 +1,2 @@
+# EDIGLOBE-MINOR-PROJECT
+Minor Data Science Project - EDIGLOBE
